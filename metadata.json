@@ -1,0 +1,6 @@
+{
+  "name": "Nara Arsip",
+  "description": "Sistem pengorganisasian koleksi fotografi (Works) dan esai editorial (Essays) berbasis judul tanpa kategori tematik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
